@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#302046</color>
+    <color name="colorPrimaryDark">#302046</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="background_dark">#302046 </color>
+    <color name="background_medium">#413469 </color>
+    <color name="background_light">#453B72 </color>
+    <color name="green_button">#3CB75A </color>
+    <color name="yellow_round_button">#F8E627 </color>
+    <color name="music_text_background">#FF8585 </color>
+    <color name="white_with_alpha">#99ffffff</color>
+</resources>
